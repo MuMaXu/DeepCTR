@@ -1,7 +1,7 @@
-deepctr.input\_embedding module
+deepctr.estimator.inputs module
 ===============================
 
-.. automodule:: deepctr.input_embedding
+.. automodule:: deepctr.estimator.inputs
     :members:
     :undoc-members:
     :show-inheritance:
